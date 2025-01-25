@@ -47,7 +47,7 @@ Countify isn’t just another counter—it's an **intelligent, multi-functional 
 
 ## 👀 Project Preview  
 🖼️ **Screenshots**:  
-![Countify Screenshot](assets/screenshot.png)  
+![Countify Screenshot](https://github.com/Universe7Nandu/dynamic-counter-app/blob/6d10731bc9735e7baed50ecb84f9d8a2a88e9cef/counter.jpg)  
 > *Experience the beauty of simplicity with advanced features!*  
 
 ---
